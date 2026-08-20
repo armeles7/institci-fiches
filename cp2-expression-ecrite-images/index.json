@@ -1,0 +1,1067 @@
+{
+  "matiere": "Expression écrite",
+  "niveau": "CP2",
+  "format": "images",
+  "count": 60,
+  "source": "EXPRESSION ECRITE CP2.pdf",
+  "pages_pdf": 97,
+  "fiches": [
+    {
+      "id": "cp2-expr-ecrite-image-001",
+      "file": "cp2-expr-ecrite-image-001.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "COMPLETEMENT DE MOTS AVEC UNE SYLLABE",
+      "themeNum": "1",
+      "lecon": "Les lettres-sons « q / qu »",
+      "leconNum": "1",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production …………………………………………… ..",
+      "pages": 2,
+      "images": [
+        "pdfpage-01.png",
+        "pdfpage-02.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-002",
+      "file": "cp2-expr-ecrite-image-002.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "COMPLETEMENT DE MOTS AVEC UNE SYLLABE",
+      "themeNum": "1",
+      "lecon": "Les lettrse-sons « q/qu »",
+      "leconNum": "1",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions …………………………………… … ……..",
+      "pages": 1,
+      "images": [
+        "pdfpage-03.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-003",
+      "file": "cp2-expr-ecrite-image-003.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "COMPLETEMENT DE MOTS AVEC UNE SYLLABE",
+      "themeNum": "1",
+      "lecon": "La lettre-son « tr »",
+      "leconNum": "2",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production",
+      "pages": 2,
+      "images": [
+        "pdfpage-04.png",
+        "pdfpage-05.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-004",
+      "file": "cp2-expr-ecrite-image-004.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "COMPLETEMENT DE MOTS AVEC UNE SYLLABE",
+      "themeNum": "1",
+      "lecon": "La lettre-son « tr »",
+      "leconNum": "2",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions DUREE : ………………………………… … ………..",
+      "pages": 1,
+      "images": [
+        "pdfpage-06.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-005",
+      "file": "cp2-expr-ecrite-image-005.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "COMPLETEMENT DE MOTS AVEC UNE SYLLABE",
+      "themeNum": "1",
+      "lecon": "La lettre-son « vr »",
+      "leconNum": "3",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production",
+      "pages": 2,
+      "images": [
+        "pdfpage-07.png",
+        "pdfpage-08.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-006",
+      "file": "cp2-expr-ecrite-image-006.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "COMPLETEMENT DE MOTS AVEC UNE SYLLABE",
+      "themeNum": "1",
+      "lecon": "La lettre-son « vr »",
+      "leconNum": "3",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions",
+      "pages": 3,
+      "images": [
+        "pdfpage-09.png",
+        "pdfpage-10.png",
+        "pdfpage-11.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-007",
+      "file": "cp2-expr-ecrite-image-007.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "COMPLETEMENT DE MOTS AVEC UNE SYLLABE",
+      "themeNum": "1",
+      "lecon": "La lettre-son « br »",
+      "leconNum": "4",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions DUREE : ………………………………………… …..",
+      "pages": 1,
+      "images": [
+        "pdfpage-12.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-008",
+      "file": "cp2-expr-ecrite-image-008.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "COMPLETEMENT DE PHRASE AVEC UN MOT",
+      "themeNum": "2",
+      "lecon": "La lettre-son « cr »",
+      "leconNum": "5",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production DUREE : ……………………………………………..",
+      "pages": 2,
+      "images": [
+        "pdfpage-13.png",
+        "pdfpage-14.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-009",
+      "file": "cp2-expr-ecrite-image-009.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "COMPLETEMENT DE MOTS AVEC UNE SYLLABE",
+      "themeNum": "2",
+      "lecon": "La lettre-son « cr »",
+      "leconNum": "5",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions",
+      "pages": 1,
+      "images": [
+        "pdfpage-15.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-010",
+      "file": "cp2-expr-ecrite-image-010.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "COMPLETEMENT DE PHRASE AVEC UN MOT",
+      "themeNum": "2",
+      "lecon": "La lettre-son « fr »",
+      "leconNum": "5",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production",
+      "pages": 2,
+      "images": [
+        "pdfpage-16.png",
+        "pdfpage-17.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-011",
+      "file": "cp2-expr-ecrite-image-011.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "COMPLETEMENT DE MOTS AVEC UNE SYLLABE",
+      "themeNum": "2",
+      "lecon": "La lettre-son « fr »",
+      "leconNum": "5",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions",
+      "pages": 1,
+      "images": [
+        "pdfpage-18.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-012",
+      "file": "cp2-expr-ecrite-image-012.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "COMPLETEMENT DE PHRASE AVEC UN MOT",
+      "themeNum": "2",
+      "lecon": "La lettre-son « dr »",
+      "leconNum": "7",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production ……………………………………………..",
+      "pages": 2,
+      "images": [
+        "pdfpage-19.png",
+        "pdfpage-20.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-013",
+      "file": "cp2-expr-ecrite-image-013.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "COMPLETEMENT DE MOTS AVEC UNE SYLLABE",
+      "themeNum": "2",
+      "lecon": "La lettre-son « dr »",
+      "leconNum": "7",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions",
+      "pages": 1,
+      "images": [
+        "pdfpage-21.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-014",
+      "file": "cp2-expr-ecrite-image-014.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "COMPLETEMENT DE PHRASE AVEC UN MOT",
+      "themeNum": "2",
+      "lecon": "La lettre-son « gr »",
+      "leconNum": "7",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production ……………………………………………..",
+      "pages": 6,
+      "images": [
+        "pdfpage-22.png",
+        "pdfpage-23.png",
+        "pdfpage-24.png",
+        "pdfpage-25.png",
+        "pdfpage-26.png",
+        "pdfpage-27.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-015",
+      "file": "cp2-expr-ecrite-image-015.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "RECONSTITUTION DE MOTS A PARTIR DE SYLLABES",
+      "themeNum": "3",
+      "lecon": "La lettre-son « cl »",
+      "leconNum": "10",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production DUREE : ……………………………………………..",
+      "pages": 2,
+      "images": [
+        "pdfpage-28.png",
+        "pdfpage-29.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-016",
+      "file": "cp2-expr-ecrite-image-016.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "RECONSTITUTION DE MOTS A PARTIR DE SYLLABES",
+      "themeNum": "3",
+      "lecon": "La lettre-son « cl »",
+      "leconNum": "10",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions",
+      "pages": 1,
+      "images": [
+        "pdfpage-30.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-017",
+      "file": "cp2-expr-ecrite-image-017.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "RECONSTITUTION DE MOTS A PARTIR DE SYLLABES",
+      "themeNum": "3",
+      "lecon": "La lettre-son « pl »",
+      "leconNum": "11",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production ……………………………………………..",
+      "pages": 2,
+      "images": [
+        "pdfpage-31.png",
+        "pdfpage-32.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-018",
+      "file": "cp2-expr-ecrite-image-018.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "RECONSTITUTION DE MOTS A PARTIR DE SYLLABES",
+      "themeNum": "3",
+      "lecon": "La lettre-son « pl »",
+      "leconNum": "11",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions",
+      "pages": 1,
+      "images": [
+        "pdfpage-33.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-019",
+      "file": "cp2-expr-ecrite-image-019.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "RECONSTITUTION DE MOTS A PARTIR DE SYLLABES",
+      "themeNum": "3",
+      "lecon": "La lettre-son « fl »",
+      "leconNum": "12",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production ……………………………………………..",
+      "pages": 2,
+      "images": [
+        "pdfpage-34.png",
+        "pdfpage-35.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-020",
+      "file": "cp2-expr-ecrite-image-020.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "RECONSTITUTION DE MOTS A PARTIR DE SYLLABES",
+      "themeNum": "3",
+      "lecon": "La lettre-son « fl »",
+      "leconNum": "12",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions …………………………………… … ……..",
+      "pages": 1,
+      "images": [
+        "pdfpage-36.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-021",
+      "file": "cp2-expr-ecrite-image-021.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "RECONSTITUTION DE MOTS A PARTIR DE SYLLABES",
+      "themeNum": "3",
+      "lecon": "La lettre-son « bl »",
+      "leconNum": "12",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production ……………………………………………..",
+      "pages": 2,
+      "images": [
+        "pdfpage-37.png",
+        "pdfpage-38.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-022",
+      "file": "cp2-expr-ecrite-image-022.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "RECONSTITUTION DE MOTS A PARTIR DE SYLLABES",
+      "themeNum": "3",
+      "lecon": "La lettre-son « bl »",
+      "leconNum": "12",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions …………………………………… … ……..",
+      "pages": 1,
+      "images": [
+        "pdfpage-39.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-023",
+      "file": "cp2-expr-ecrite-image-023.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "COMPLETEMENT DE MOTS AVEC UNE LETTRE SON",
+      "themeNum": "4",
+      "lecon": "La lettre-son « in »",
+      "leconNum": "13",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production SEMAINE :",
+      "pages": 2,
+      "images": [
+        "pdfpage-40.png",
+        "pdfpage-41.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-024",
+      "file": "cp2-expr-ecrite-image-024.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "RECONSTITUTION DE MOTS A PARTIR DE SYLLABES",
+      "themeNum": "4",
+      "lecon": "La lettre-son « in » DUREE :",
+      "leconNum": "13",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions SEMAINE :",
+      "pages": 1,
+      "images": [
+        "pdfpage-42.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-025",
+      "file": "cp2-expr-ecrite-image-025.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "COMPLETEMENT DE MOTS AVEC UNE LETTRE SON",
+      "themeNum": "4",
+      "lecon": "Les lettres-sons « eu »",
+      "leconNum": "14",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production",
+      "pages": 2,
+      "images": [
+        "pdfpage-43.png",
+        "pdfpage-44.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-026",
+      "file": "cp2-expr-ecrite-image-026.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "COMPLETEMENT DE MOTS AVEC UNE LETTRE SON",
+      "themeNum": "4",
+      "lecon": "Les lettres-sons « eu »",
+      "leconNum": "14",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions …………………………………………… ..",
+      "pages": 1,
+      "images": [
+        "pdfpage-45.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-027",
+      "file": "cp2-expr-ecrite-image-027.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "COMPLETEMENT DE MOTS AVEC UNE LETTRE SON",
+      "themeNum": "4",
+      "lecon": "Les lettres-sons « er »",
+      "leconNum": "15",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production",
+      "pages": 2,
+      "images": [
+        "pdfpage-46.png",
+        "pdfpage-47.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-028",
+      "file": "cp2-expr-ecrite-image-028.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "RECONSTITUTION DE MOTS A PARTIR DE SYLLABES COURS : CP2",
+      "themeNum": "4",
+      "lecon": "La lettre-son « er » DUREE :",
+      "leconNum": "15",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions SEMAINE : ……………………… … ……………………..",
+      "pages": 1,
+      "images": [
+        "pdfpage-48.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-029",
+      "file": "cp2-expr-ecrite-image-029.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "COMPLETEMENT DE MOTS AVEC UNE LETTRE SON",
+      "themeNum": "4",
+      "lecon": "Les lettres-sons « am ; om » COURS : CP2",
+      "leconNum": "16",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production DUREE :",
+      "pages": 2,
+      "images": [
+        "pdfpage-49.png",
+        "pdfpage-50.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-030",
+      "file": "cp2-expr-ecrite-image-030.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "COMPLETEMENT DE MOTS AVEC UNE LETTRE SON",
+      "themeNum": "4",
+      "lecon": "Les lettres-sons « am ; om »",
+      "leconNum": "16",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions",
+      "pages": 1,
+      "images": [
+        "pdfpage-51.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-031",
+      "file": "cp2-expr-ecrite-image-031.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "RECONSTITUTION DE PHRASE A PARTIR DE MOT",
+      "themeNum": "5",
+      "lecon": "La lettre-son « elle » COURS : CP2",
+      "leconNum": "17",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production DUREE :",
+      "pages": 2,
+      "images": [
+        "pdfpage-52.png",
+        "pdfpage-53.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-032",
+      "file": "cp2-expr-ecrite-image-032.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "RECONSTITUTION DE PHRASE A PARTIR DE MOT",
+      "themeNum": "5",
+      "lecon": "Les lettres-sons « elle »",
+      "leconNum": "17",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions",
+      "pages": 1,
+      "images": [
+        "pdfpage-54.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-033",
+      "file": "cp2-expr-ecrite-image-033.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "RECONSTITUTION DE PHRASE A PARTIR DE MOT",
+      "themeNum": "5",
+      "lecon": "Les lettres-sons « ge ; gi »",
+      "leconNum": "18",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production SEMAINE :",
+      "pages": 2,
+      "images": [
+        "pdfpage-55.png",
+        "pdfpage-56.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-034",
+      "file": "cp2-expr-ecrite-image-034.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "RECONSTITUTION DE PHRASE A PARTIR DE MOT",
+      "themeNum": "5",
+      "lecon": "Les lettres-sons « ge-gi »",
+      "leconNum": "18",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions ……………………………………… … …..",
+      "pages": 1,
+      "images": [
+        "pdfpage-57.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-035",
+      "file": "cp2-expr-ecrite-image-035.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "RECONSTITUTION DE PHRASE A PARTIR DE MOT",
+      "themeNum": "5",
+      "lecon": "Les lettres-sons « ce ; ci »",
+      "leconNum": "19",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production ……………………………………………..",
+      "pages": 2,
+      "images": [
+        "pdfpage-58.png",
+        "pdfpage-59.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-036",
+      "file": "cp2-expr-ecrite-image-036.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "RECONSTITUTION DE PHRASE A PARTIR DE MOT",
+      "themeNum": "5",
+      "lecon": "Les lettres-sons « ci ; ce »",
+      "leconNum": "19",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions",
+      "pages": 1,
+      "images": [
+        "pdfpage-60.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-037",
+      "file": "cp2-expr-ecrite-image-037.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "RECONSTITUTION DE PHRASE A PARTIR DE MOT",
+      "themeNum": "5",
+      "lecon": "La lettre-son « ç »",
+      "leconNum": "20",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production DUREE : ……………………………………………..",
+      "pages": 2,
+      "images": [
+        "pdfpage-61.png",
+        "pdfpage-62.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-038",
+      "file": "cp2-expr-ecrite-image-038.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "RECONSTITUTION DE PHRASE A PARTIR DE MOT",
+      "themeNum": "5",
+      "lecon": "La lettrs-son « ç »",
+      "leconNum": "20",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions …………………………………… ………..",
+      "pages": 1,
+      "images": [
+        "pdfpage-63.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-039",
+      "file": "cp2-expr-ecrite-image-039.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "PRODUIRE DE MOTS A PARTIR DE SYLLABE",
+      "themeNum": "6",
+      "lecon": "La lettre-son « oin »",
+      "leconNum": "21",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production ……………………………………………..",
+      "pages": 2,
+      "images": [
+        "pdfpage-64.png",
+        "pdfpage-65.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-040",
+      "file": "cp2-expr-ecrite-image-040.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "PRODUIRE DE MOTS A PARTIR DE SYLLABE",
+      "themeNum": "6",
+      "lecon": "La lettre-son « oin »",
+      "leconNum": "21",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions ……………………………………………..",
+      "pages": 1,
+      "images": [
+        "pdfpage-66.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-041",
+      "file": "cp2-expr-ecrite-image-041.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "PRODUIRE DE MOTS A PARTIR DE SYLLABE COURS : CP2",
+      "themeNum": "6",
+      "lecon": "Les lettres-sons « tion » DUREE :",
+      "leconNum": "22",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production SEMAINE :",
+      "pages": 2,
+      "images": [
+        "pdfpage-67.png",
+        "pdfpage-68.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-042",
+      "file": "cp2-expr-ecrite-image-042.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "PRODUIRE DE MOTS A PARTIR DE SYLLABE",
+      "themeNum": "6",
+      "lecon": "Les lettres-sons « tion »",
+      "leconNum": "22",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions ……………………………………………..",
+      "pages": 1,
+      "images": [
+        "pdfpage-69.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-043",
+      "file": "cp2-expr-ecrite-image-043.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "PRODUIRE DE MOTS A PARTIR DE SYLLABE",
+      "themeNum": "6",
+      "lecon": "Les lettres-sons « ien » COURS : CP2",
+      "leconNum": "23",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production DUREE :",
+      "pages": 2,
+      "images": [
+        "pdfpage-70.png",
+        "pdfpage-71.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-044",
+      "file": "cp2-expr-ecrite-image-044.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "PRODUIRE DE MOTS A PARTIR DE SYLLABE",
+      "themeNum": "6",
+      "lecon": "Les lettres-sons «ien»",
+      "leconNum": "23",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions DUREE : ……………………………………………..",
+      "pages": 1,
+      "images": [
+        "pdfpage-72.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-045",
+      "file": "cp2-expr-ecrite-image-045.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "PRODUIRE DE MOTS A PARTIR DE SYLLABE",
+      "themeNum": "6",
+      "lecon": "Les lettres-sons « ein » COURS : CP2",
+      "leconNum": "23",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production DUREE :",
+      "pages": 2,
+      "images": [
+        "pdfpage-73.png",
+        "pdfpage-74.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-046",
+      "file": "cp2-expr-ecrite-image-046.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "PRODUIRE DE MOTS A PARTIR DE SYLLABE",
+      "themeNum": "6",
+      "lecon": "Les lettres-sons «ien» COURS : CP2",
+      "leconNum": "24",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions DUREE :",
+      "pages": 1,
+      "images": [
+        "pdfpage-75.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-047",
+      "file": "cp2-expr-ecrite-image-047.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "PRODUCTION DE PHRASE A PARTIR D’UN MOT",
+      "themeNum": "7",
+      "lecon": "Les lettres-sons «ier»",
+      "leconNum": "25",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production",
+      "pages": 2,
+      "images": [
+        "pdfpage-76.png",
+        "pdfpage-77.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-048",
+      "file": "cp2-expr-ecrite-image-048.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "PRODUIRE DE MOTS A PARTIR DE SYLLABE",
+      "themeNum": "7",
+      "lecon": "La lettre-son « ier » COURS : CP2",
+      "leconNum": "25",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions DUREE : …………………………………………… ..",
+      "pages": 1,
+      "images": [
+        "pdfpage-78.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-049",
+      "file": "cp2-expr-ecrite-image-049.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "PRODUCTION DE PHRASE A PARTIR D’UN MOT",
+      "themeNum": "7",
+      "lecon": "Les lettres-sons «ette»",
+      "leconNum": "25",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production DUREE : ……………………………………………..",
+      "pages": 2,
+      "images": [
+        "pdfpage-79.png",
+        "pdfpage-80.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-050",
+      "file": "cp2-expr-ecrite-image-050.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "PRODUIRE DE MOTS A PARTIR DE SYLLABE COURS : CP2",
+      "themeNum": "7",
+      "lecon": "Les lettres-sons ette",
+      "leconNum": "26",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions",
+      "pages": 1,
+      "images": [
+        "pdfpage-81.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-051",
+      "file": "cp2-expr-ecrite-image-051.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "PRODUCTION DE PHRASE A PARTIR D’UN MOT",
+      "themeNum": "7",
+      "lecon": "Les lettres-sons «erre» COURS : CP2",
+      "leconNum": "26",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production DUREE :",
+      "pages": 2,
+      "images": [
+        "pdfpage-82.png",
+        "pdfpage-83.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-052",
+      "file": "cp2-expr-ecrite-image-052.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "PRODUIRE DE MOTS A PARTIR DE SYLLABE COURS : CP2",
+      "themeNum": "7",
+      "lecon": "Les lettres-sons « erre » DUREE : ……………………………………………..",
+      "leconNum": "26",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions SEMAINE :",
+      "pages": 1,
+      "images": [
+        "pdfpage-84.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-053",
+      "file": "cp2-expr-ecrite-image-053.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "PRODUCTION DE PHRASE A PARTIR D’UN MOT",
+      "themeNum": "7",
+      "lecon": "Les lettres-sons « eau »",
+      "leconNum": "27",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production",
+      "pages": 2,
+      "images": [
+        "pdfpage-85.png",
+        "pdfpage-86.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-054",
+      "file": "cp2-expr-ecrite-image-054.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "PRODUIRE DE MOTS A PARTIR DE SYLLABE",
+      "themeNum": "7",
+      "lecon": "Les lettres-sons « eau » COURS : CP2",
+      "leconNum": "27",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions DUREE :",
+      "pages": 1,
+      "images": [
+        "pdfpage-87.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-055",
+      "file": "cp2-expr-ecrite-image-055.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "PRODUCTION DE PHRASE A PARTIR D’UN MOT",
+      "themeNum": "7",
+      "lecon": "Les lettres-sons « ei » COURS : CP2",
+      "leconNum": "28",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production",
+      "pages": 2,
+      "images": [
+        "pdfpage-88.png",
+        "pdfpage-89.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-056",
+      "file": "cp2-expr-ecrite-image-056.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "PRODUIRE DE MOTS A PARTIR DE SYLLABE",
+      "themeNum": "7",
+      "lecon": "Les lettres-sons « ei »",
+      "leconNum": "28",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions DUREE : ……………………………………………..",
+      "pages": 1,
+      "images": [
+        "pdfpage-90.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-057",
+      "file": "cp2-expr-ecrite-image-057.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "PRODUCTION DE PHRASE OU DE MOT A PARTIR D’UN DESSIN",
+      "themeNum": "8",
+      "lecon": "Les lettres-sons «ill»",
+      "leconNum": "29",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production DUREE : ………………………………………… … ..",
+      "pages": 2,
+      "images": [
+        "pdfpage-91.png",
+        "pdfpage-92.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-058",
+      "file": "cp2-expr-ecrite-image-058.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "PRODUCTION DE PHRASE OU DE MOT A PARTIR D’UN DESSIN COURS : CP2",
+      "themeNum": "8",
+      "lecon": "Les lettres-sons « ill »",
+      "leconNum": "29",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions",
+      "pages": 1,
+      "images": [
+        "pdfpage-93.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-059",
+      "file": "cp2-expr-ecrite-image-059.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "COMPLETEMENT DE MOTS AVEC UNE LETTRE SON",
+      "themeNum": "4",
+      "lecon": "La lettre-son « ain » COURS : CP2",
+      "leconNum": "13",
+      "seance": "1/2",
+      "seanceTitre": "Entraînement et Production DUREE :",
+      "pages": 2,
+      "images": [
+        "pdfpage-94.png",
+        "pdfpage-95.png"
+      ]
+    },
+    {
+      "id": "cp2-expr-ecrite-image-060",
+      "file": "cp2-expr-ecrite-image-060.html",
+      "format": "images",
+      "niveau": "CP2",
+      "discipline": "Expression écrite",
+      "theme": "RECONSTITUTION DE MOTS A PARTIR DE SYLLABES",
+      "themeNum": "4",
+      "lecon": "Les lettres-sons « ain »",
+      "leconNum": "13",
+      "seance": "2/2",
+      "seanceTitre": "Correction des productions",
+      "pages": 2,
+      "images": [
+        "pdfpage-96.png",
+        "pdfpage-97.png"
+      ]
+    }
+  ]
+}
