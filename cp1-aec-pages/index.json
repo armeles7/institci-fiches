@@ -1,0 +1,186 @@
+{
+  "matiere": "AEC",
+  "niveau": "CP1",
+  "format": "original-pages",
+  "count": 16,
+  "source": "AEC_CP1.html",
+  "pages_source": 52,
+  "fiches": [
+    {
+      "id": "cp1-aec-page-001",
+      "file": "cp1-aec-page-001.html",
+      "format": "original-pages",
+      "niveau": "CP1",
+      "discipline": "AEC",
+      "lecon": "Leçon 1 : Exploration du milieu",
+      "seance": "Séance 1 : Collection des matériaux du milieu.",
+      "pages": 4,
+      "page_source": 3
+    },
+    {
+      "id": "cp1-aec-page-002",
+      "file": "cp1-aec-page-002.html",
+      "format": "original-pages",
+      "niveau": "CP1",
+      "discipline": "AEC",
+      "lecon": "Leçon 1 : Exploration du milieu",
+      "seance": "Séance 2 : Préparation de l’argile ou terre argileuse.",
+      "pages": 3,
+      "page_source": 7
+    },
+    {
+      "id": "cp1-aec-page-003",
+      "file": "cp1-aec-page-003.html",
+      "format": "original-pages",
+      "niveau": "CP1",
+      "discipline": "AEC",
+      "lecon": "Leçon 1 : Exploration du milieu",
+      "seance": "Séance 3 : Préparation des colorants",
+      "pages": 3,
+      "page_source": 10
+    },
+    {
+      "id": "cp1-aec-page-004",
+      "file": "cp1-aec-page-004.html",
+      "format": "original-pages",
+      "niveau": "CP1",
+      "discipline": "AEC",
+      "lecon": "Leçon 1 : Exploration du milieu",
+      "seance": "Séance 3 : Fabrication de pinceaux",
+      "pages": 4,
+      "page_source": 13
+    },
+    {
+      "id": "cp1-aec-page-005",
+      "file": "cp1-aec-page-005.html",
+      "format": "original-pages",
+      "niveau": "CP1",
+      "discipline": "AEC",
+      "lecon": "Leçon 2 : Animation de surface par collage",
+      "seance": "Séance 4 : Collage des papiers découpés dans un motif.",
+      "pages": 3,
+      "page_source": 17
+    },
+    {
+      "id": "cp1-aec-page-006",
+      "file": "cp1-aec-page-006.html",
+      "format": "original-pages",
+      "niveau": "CP1",
+      "discipline": "AEC",
+      "lecon": "Leçon 1 : Discrimination des bruits et sons",
+      "seance": "Séance 5 : Écoute des bruits environnants pour les discriminer (moto, voiture etc.).",
+      "pages": 3,
+      "page_source": 20
+    },
+    {
+      "id": "cp1-aec-page-007",
+      "file": "cp1-aec-page-007.html",
+      "format": "original-pages",
+      "niveau": "CP1",
+      "discipline": "AEC",
+      "lecon": "Leçon 3 : Techniques d’animation de surface",
+      "seance": "Séance 7 : Animation d’une surface à partir d’un principe décoratif : la répétition.",
+      "pages": 3,
+      "page_source": 23
+    },
+    {
+      "id": "cp1-aec-page-008",
+      "file": "cp1-aec-page-008.html",
+      "format": "original-pages",
+      "niveau": "CP1",
+      "discipline": "AEC",
+      "lecon": "Leçon 3 : Chants et communication",
+      "seance": "Séance 8 : Chant en français",
+      "pages": 4,
+      "page_source": 26
+    },
+    {
+      "id": "cp1-aec-page-009",
+      "file": "cp1-aec-page-009.html",
+      "format": "original-pages",
+      "niveau": "CP1",
+      "discipline": "AEC",
+      "lecon": "Leçon 3 : Chants et communication",
+      "seance": "Séance 9 : Chant en langues nationales",
+      "pages": 4,
+      "page_source": 30
+    },
+    {
+      "id": "cp1-aec-page-010",
+      "file": "cp1-aec-page-010.html",
+      "format": "original-pages",
+      "niveau": "CP1",
+      "discipline": "AEC",
+      "lecon": "Leçon 1 : Imitation de mouvements",
+      "seance": "Séance 11 : Mime d’un élève jetant des ordures dans la poubelle.",
+      "pages": 2,
+      "page_source": 34
+    },
+    {
+      "id": "cp1-aec-page-011",
+      "file": "cp1-aec-page-011.html",
+      "format": "original-pages",
+      "niveau": "CP1",
+      "discipline": "AEC",
+      "lecon": "Leçon 4 : Peinture et décoration d’une surface",
+      "seance": "Séance 12 : Coloriage d’une surface : un rond ou un carré.",
+      "pages": 3,
+      "page_source": 36
+    },
+    {
+      "id": "cp1-aec-page-012",
+      "file": "cp1-aec-page-012.html",
+      "format": "original-pages",
+      "niveau": "CP1",
+      "discipline": "AEC",
+      "lecon": "Leçon 2 : Production de sons variés",
+      "seance": "Séance 14 : Production de sons avec des objets frappés puis des objets secoués pour les classer.",
+      "pages": 3,
+      "page_source": 39
+    },
+    {
+      "id": "cp1-aec-page-013",
+      "file": "cp1-aec-page-013.html",
+      "format": "original-pages",
+      "niveau": "CP1",
+      "discipline": "AEC",
+      "lecon": "Leçon 2 : Production de rythmes",
+      "seance": "Séance 15 : Déplacement et production de rythmes.",
+      "pages": 3,
+      "page_source": 42
+    },
+    {
+      "id": "cp1-aec-page-014",
+      "file": "cp1-aec-page-014.html",
+      "format": "original-pages",
+      "niveau": "CP1",
+      "discipline": "AEC",
+      "lecon": "Leçon 5 : Technique du modelage",
+      "seance": "Séance 17 : Impression des empreintes sur une plaque d’argile ou de terre argileuse.",
+      "pages": 3,
+      "page_source": 45
+    },
+    {
+      "id": "cp1-aec-page-015",
+      "file": "cp1-aec-page-015.html",
+      "format": "original-pages",
+      "niveau": "CP1",
+      "discipline": "AEC",
+      "lecon": "Leçon 6 : Appréciation des productions plastiques",
+      "seance": "Séance 18 : Appréciation des productions des élèves.",
+      "pages": 3,
+      "page_source": 48
+    },
+    {
+      "id": "cp1-aec-page-016",
+      "file": "cp1-aec-page-016.html",
+      "format": "original-pages",
+      "niveau": "CP1",
+      "discipline": "AEC",
+      "lecon": "Leçon 4 : Jeux chantés et dansés",
+      "seance": "Séance 22 : Apprentissage / mime des jeux chantés et dansés.",
+      "pages": 2,
+      "page_source": 51
+    }
+  ]
+}
